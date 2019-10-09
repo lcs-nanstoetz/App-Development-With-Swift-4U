@@ -5,7 +5,8 @@
  */
 var someNumber = 10
 someNumber += 5
-
+someNumber *= 2
+print(someNumber)
 /*:
  Create a variable called `piggyBank` that begins at 0. You will use this to keep track of money you earn and spend. For each point below, use the right compound assignment operator to update the balance in your piggy bank.
  
@@ -17,9 +18,10 @@ someNumber += 5
  
  Print the balance of your piggy bank after each step.
  */
-
-
-
-
-
+var piggyBank = 0
+piggyBank += 20
+piggyBank /= 2
+piggyBank *= 3
+piggyBank -= 3
+print(piggyBank)
 //: [Previous](@previous)  |  page 3 of 8  |  [Next: App Exercise - Counting](@next)
