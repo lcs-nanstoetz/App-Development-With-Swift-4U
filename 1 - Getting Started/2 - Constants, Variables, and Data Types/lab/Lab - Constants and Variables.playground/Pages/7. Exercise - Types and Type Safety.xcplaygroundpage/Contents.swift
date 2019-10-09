@@ -3,13 +3,13 @@
  
  Declare two variables, one called `firstDecimal` and one called `secondDecimal`. Both should have decimal values. Look at both of their types by holding Option and clicking on the variable name.
  */
-//let TrueOrFalse
+let TrueOrFalse: Bool
 //I dont know what to do
 /*:
  Declare a variable called `trueOrFalse` and give it a boolean value. Try to assign it to `firstDecimal` like so: `firstDecimal = trueOrFalse`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
  */
 var TrueOrFalse: Bool
-//var firstDeciaml = TrueOrFalse
+var firstDeciaml = TrueOrFalse
 //I dont know what to do
 
 /*:
